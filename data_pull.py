@@ -1,9 +1,0 @@
-import pandas as pd
-import numpy as np
-from pandas import Series, DataFrame
-import datetime as dt
-from datetime import date
-import pyodbc
-
-
-print('this is working. maybe')
